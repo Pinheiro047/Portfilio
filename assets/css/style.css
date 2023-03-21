@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #1e1e2a;
+    font-family: 'Trebuchet MS';
+}
+
+.header{
+    background-color: #151538;
+    color: white;
+    padding-top: 25px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.nome{
+    padding-left: 550px;
+}
+
+a{
+    color: white;
+    padding-right: 25px;
+    text-decoration: none;
+}
+
+
+/* MAIN */
+
+.fotoeu{
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 50%;
+    padding-left: 50px;
+    padding-top: 50px;
+}
